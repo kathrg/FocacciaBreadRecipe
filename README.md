@@ -4,3 +4,6 @@ Program helps calculate the total amount of ingredients (flour, yeast, salt, and
 
 Note: RMEs not made
 
+## Language Used
+* C++
+
