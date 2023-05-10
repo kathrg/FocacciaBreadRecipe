@@ -6,7 +6,7 @@ Note: lacks necessary RMEs
 
 ## File Implemented
 * Files: focaccia.cpp
-* _Note: pluralize() and its RME were provided for me by the University of Michigan EECS 183._
+* _Note: All other files, functions, and RMEs were provided for me by the University of Michigan EECS 183 and are subject to copyright laws._
 
 ## Language Used
 * C++
